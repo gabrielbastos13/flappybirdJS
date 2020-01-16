@@ -1,5 +1,2 @@
 # flappybirdJS
-Projeto realizado via estudos do curso Web Moderno da COD3R/n
-fundamentos utilizados/n
--Javascript/n
--CSS
+Projeto realizado via estudos do curso Web Moderno da COD3R
